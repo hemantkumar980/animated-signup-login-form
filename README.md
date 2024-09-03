@@ -9,5 +9,6 @@
 <br>
 <br>
 <br>
-Animated Login Page 
+<h2 align="center">Animated Login Page</h2>
+ 
 ![Screenshot (147)](https://github.com/user-attachments/assets/ae2047cb-1735-4e31-837a-068bedfbe1ec)
